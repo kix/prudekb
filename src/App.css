@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.title {
+  font-family: 'Oswald', sans-serif;
+  color: #e0e0e0;
+  position: absolute;
+  z-index: 100; 
+  left: 23px;
+}
